@@ -1,6 +1,8 @@
 readme test
-![KakaoTalk_20220920_191320016](https://user-images.githubusercontent.com/104604931/191506935-924d753b-69bc-4047-819d-d3ad467b1638.png)
-![KakaoTalk_20220920_191328661](https://user-images.githubusercontent.com/104604931/191506953-464d675a-64a0-4b85-961e-8b513937ef9c.png)
-![KakaoTalk_20220920_190420102](https://user-images.githubusercontent.com/104604931/191506962-ef78600a-dd69-4749-97ea-3a5821dc18ea.png)
-![KakaoTalk_20220920_190439743](https://user-images.githubusercontent.com/104604931/191506964-8c20741a-7ab4-461c-8869-bc9a393daede.png)
-![KakaoTalk_20220920_190410125](https://user-images.githubusercontent.com/104604931/191506990-bf90e064-7b81-4587-b794-5abdd0e98ed0.png)
+
+<img width="957" alt="KakaoTalk_20220920_190410125" src="https://user-images.githubusercontent.com/104604931/191507998-dea9c11a-c255-4fd8-91c5-580098cfcc3d.png">
+![KakaoTalk_20220920_190420102](https://user-images.githubusercontent.com/104604931/191508003-534724cd-cab1-4e96-8072-2825b31f1c19.png)
+![KakaoTalk_20220920_190511345](https://user-images.githubusercontent.com/104604931/191508004-a7d02e0f-1c9e-4d8a-bdba-7b70e406a229.png)
+![KakaoTalk_20220920_190519143](https://user-images.githubusercontent.com/104604931/191508007-fd036548-589d-48a0-870f-747817e676ed.png)
+![KakaoTalk_20220920_191320016](https://user-images.githubusercontent.com/104604931/191508010-dda3283f-88d3-42de-880f-910aefa83aca.png)
+![KakaoTalk_20220920_191328661](https://user-images.githubusercontent.com/104604931/191508017-d4460c24-6041-48b6-bf9e-b900e34587f9.png)
